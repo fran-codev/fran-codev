@@ -5,9 +5,9 @@
 </p>
 
 <!-- Introducción -->
+- 💻 **Software Developer** apasionado por la tecnología.
 - 🔭 **Backend Developer** especializado en **Java Spring Boot**.
 - 🌱 Desarrollo aplicaciones basadas en **Microservicios**.
-- 🚀 Apasionado por la creación de **aplicaciones escalables**.
 - 🛠️ Trabajo en la **optimización de procesos** y rendimiento.
 - 📫 <a href="mailto:francotaypedev@gmail.com" target="_blank">francotaypedev@gmail.com</a>.
 - 🌐 Conéctame en <a href="https://www.linkedin.com/in/franco-taype/" target="_blank">LinkedIn</a>.
@@ -80,10 +80,4 @@
   <a href="mailto:francotaypedev@gmail.com" target="_blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" style="width:45px; height:45px;">
   </a>
-</p>
-
-<!-- Contador de visitas -->
-<br/>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/francode-taype/count.svg" />
 </p>
