@@ -62,10 +62,10 @@
   <table align="center">
     <tr>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=francode-taype&theme=dark&show_icons=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fran-codev&theme=dark&show_icons=true&count_private=true" />
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=francode-taype&theme=dark&hide_border=false&no-bg=true&no-frame=true&count=10"/>
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fran-codev&theme=dark&hide_border=false&no-bg=true&no-frame=true&count=10"/>
       </td>
     </tr>
   </table>
