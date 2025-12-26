@@ -65,5 +65,5 @@
 <hr/>
 
 <p align="center">
-  <i>© 2025 FRANCODE - Desarrollador Backend Especializado</i>
+  <i>© 2025 FRANCODE - Desarrollador de Software</i>
 </p>
